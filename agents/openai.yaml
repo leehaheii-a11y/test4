@@ -1,0 +1,8 @@
+interface:
+  display_name: "Apply Red Web Theme"
+  short_description: "为网页应用清晰、可访问的红色主题"
+  brand_color: "#DC2626"
+  default_prompt: "Use $apply-red-web-theme to apply an accessible red theme while preserving the page's content and behavior."
+
+policy:
+  allow_implicit_invocation: true

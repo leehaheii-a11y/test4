@@ -1,5 +1,5 @@
 ---
-name: apply-red-web-theme1
+name: apply-red-web-theme
 description: 为新建或现有网页应用清晰、可访问且一致的红色视觉主题。用于用户要求创建、编辑、重设计或预览红色主题网页，同时保留原有内容、功能与响应式行为。
 ---
 
